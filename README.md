@@ -55,7 +55,7 @@
 ![image](https://github.com/MUTTHU10/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/blob/main/Screenshot%202026-03-19%20110508.png?raw=true)
 ![image](https://github.com/MUTTHU10/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/blob/main/Screenshot%202026-03-19%20110517.png?raw=true)
 ![image](https://github.com/MUTTHU10/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/blob/main/Screenshot%202026-03-19%20110528.png?raw=true)
-![image](
+![image](https://github.com/MUTTHU10/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/blob/main/Screenshot%202026-03-19%20110537.png?raw=true)
 ![image](https://github.com/MUTTHU10/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/blob/main/Screenshot%202026-03-16%20125644.png?raw=true)
 ### Name: MUTTHU M
 ### Register Number: 212225040269
